@@ -14,7 +14,7 @@ The Unity Reference Project is a fully functional collaborative design review to
 
 To connect and find support, join the [Unity forum](https://forum.unity.com/forums/unity-cloud.868/).
 
-### Supported platforms and files
+### Supported platforms
 
 The Unity Reference Project is compatible with the [latest Unity Long Term Support](https://unity.com/releases/2021-lts) (LTS)  and tested on the following platforms:
 
@@ -67,7 +67,7 @@ It also leverages Unity services that make it easier to:
 - Authenticate with your Unity account.
 - List and select an asset from cloud storage.
 - Stream a large 3D asset from cloud storage (vast support for 3D formats).
-- Collaborate online with voice chat and user avatars.
+- Online multiplayer collaboration.
 - Share a deep-link to an asset for others to view.
 
 ## Get the project
